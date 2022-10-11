@@ -1,0 +1,66 @@
+
+You awaken to the soothing sound of waves lapping up against the sand. Your white shirt clings to your bruised body. 
+
+Slowy you open your eyes to the blinding sun beating down upon you as you lie flat on your back. Turning round, your work thoughts are realised, you have washed up on an island.....
+
+You stand and study the beach in front of you. Pure white sand stretches 20 metres in front of you before it's swallowed by the edge of a dense, thick jungle.
+
+You look left and right.... the same in both directions...
+
+	DO YOU?
+
+	Examine the ocean
+
+	Approach the Jungle's edge
+
+
+EXAMINE THE OCEAN
+
+You turn to face the ocean, sheilding your eyes with both hands from the blinding sun, you study the waters in all directions.
+
+The Ocean stretches out as far as the eye can see. just beyond the shore you notice the water breaking on what must be a reef below the surface.
+
+At that moment you notice something floating in the water? what is it?
+
+
+	DO YOU?
+
+	approach the object
+
+	Approach the Jungle's edge
+
+
+APPROACH THE OBJECT
+
+You walk towards the waters edge as you remove your shirt and drop it on the sand
+
+as you wade out towards the floating object you winse as the salty water washes over your many cuts
+
+suddenly you jump into the water and begin to swim as you realise the object is actually a human
+
+When you reach it you realise by her hair and dress that its a woman, she's bobbing lifelessly on the water with her back towards the sky
+
+You reach out a hand and turn her over
+
+You give out a scream and leap backwards, the womans face is almost gone, all that remains is one eye and some flesh stretched over a gaunt and lifeless skull.
+
+Terrified you turn and make for the shore as fast as you can, eventually you scramble back on to the shore and pick up your shirt. You glance round and see that the woman is drifting further out to sea. You relax
+
+
+APPROACH THE JUNGLES EDGE
+
+As you approach the trees you squint to see what lies within.
+
+The opening mainly consists of coconut trees and large bushy fern plants but due to the thickness of the jungle you can't see much farther than 20 feet.
+
+You look up at the sky. the sun appears to be on the way down, you think you will probably have another 2 hours of daylight at least.
+
+	
+	DO YOU?
+
+	enter the jungle
+
+	try to make camp
+
+
+  
