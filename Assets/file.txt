@@ -1,0 +1,33 @@
+34
+You walk slowly along the cliff edge and hang on for dear life, looking down you see a giant black chasm before you.
+:
+this is option 1 @43
+:
+this is option 2 @12
+=
+
+55
+this should be textBlock two.
+:
+this is option 1b @33
+=
+
+
+
+143
+This is block three
+:
+option1 @445
+:
+option2 @211
+:
+option3 @112
+=
+
+122
+This is block four with no options
+=
+
+113
+This is block five again with no options
+=
